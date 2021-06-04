@@ -1,0 +1,11 @@
+C:\src\Apps\Filter\Filter\bin\Debug\netcoreapp3.1\Filter.exe
+C:\src\Apps\Filter\Filter\bin\Debug\netcoreapp3.1\Filter.deps.json
+C:\src\Apps\Filter\Filter\bin\Debug\netcoreapp3.1\Filter.runtimeconfig.json
+C:\src\Apps\Filter\Filter\bin\Debug\netcoreapp3.1\Filter.runtimeconfig.dev.json
+C:\src\Apps\Filter\Filter\bin\Debug\netcoreapp3.1\Filter.dll
+C:\src\Apps\Filter\Filter\bin\Debug\netcoreapp3.1\Filter.pdb
+C:\src\Apps\Filter\Filter\obj\Debug\netcoreapp3.1\Filter.csprojAssemblyReference.cache
+C:\src\Apps\Filter\Filter\obj\Debug\netcoreapp3.1\Filter.AssemblyInfoInputs.cache
+C:\src\Apps\Filter\Filter\obj\Debug\netcoreapp3.1\Filter.AssemblyInfo.cs
+C:\src\Apps\Filter\Filter\obj\Debug\netcoreapp3.1\Filter.dll
+C:\src\Apps\Filter\Filter\obj\Debug\netcoreapp3.1\Filter.pdb
